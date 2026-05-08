@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "package_url": "https://github.com/fengfeirui/LoLMayhemHelper/releases/download/v1.0.0/LoLMayhemHelper-1.0.0-exe.zip",
-  "sha256": "sha256:fe124a2cdf992ea299581d1327c1f4ed5a94da81aa06bba842335d3bc24054c9",
-  "notes": "正式版 exe 首次发布"
+  "package_url": "https://github.com/fengfeirui/LoLMayhemHelper/releases/download/v1.0.2/LoLMayhemHelper-1.0.2-exe.zip",
+  "sha256": "sha256:ed2338c312998ee01081bf2e488bf6acce5a22d04b0fe1b66f8ea60ae68b1b7d",
+  "notes": "修复海克斯强化解析误把英雄技能识别为海克斯的问题，并刷新本地数据库。"
 }
