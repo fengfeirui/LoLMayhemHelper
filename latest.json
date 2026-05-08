@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
-  "package_url": "https://github.com/fengfeirui/LoLMayhemHelper/releases/download/v1.0.4/LoLMayhemHelper-1.0.4-exe.zip",
+  "version": "1.0.5",
+  "package_url": "https://github.com/fengfeirui/LoLMayhemHelper/releases/download/v1.0.5/LoLMayhemHelper-1.0.5-exe.zip",
   "sha256": "9a6e1eef733009e1f9ac3902ba9a103f4351eee53e5e94226b95c850dc9950c2",
   "notes": "更新完成后自动删除旧版本整个文件夹和旧版本压缩包，只保留最新版本文件和压缩包。"
 }
