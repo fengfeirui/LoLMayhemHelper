@@ -1,6 +1,6 @@
 {
   "version": "1.0.11",
   "package_url": "https://github.com/fengfeirui/LoLMayhemHelper/releases/download/v1.0.11/LoLMayhemHelper-1.0.11-exe.zip",
-  "sha256": "3c05d21b2ffad089e34501d41fa730378e7ee507227bf4a8c38807a10bbff105",
+  "sha256": "3e2a54650a31da2d833c84ba1db40d91020c848c2c3a0d50fea72f82b76558e1",
   "notes": "修复旧版本空文件夹和旧压缩包清理残留问题，并在更新过程中显示请勿关闭窗口、动态进度条和百分比"
 }
